@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+background:linear-gradient(#3cff00,#fff,#ff0000);
+    
+}
+h1{
+    background:linear-gradient(#ff0000,#fff,#3cff00);
+    border: 10px solid;
+    text-align: center;
+}
